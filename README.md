@@ -1,9 +1,9 @@
 ### 👋 You-Ran's GitHub Profile 👋
 
-Hey there, my name is Nai You-Ran and now I live in Taiwan, participating in cool [company](http://building.rcad.com.tw/) and trying to help the world design and build with [BIM](https://www.buildingsmart.org/).
+Hey there, my name is Nai You-Ran and now I live in Taiwan, participating in [cool company](http://building.rcad.com.tw/) and trying to help the world design and build constructing buildings with [BIM](https://www.buildingsmart.org/).
 
 - 🔭 I’m currently working on [RCAD](http://building.rcad.com.tw/)
-- 🌱 I’m currently learning English and structure design
+- 🌱 I'm currently learning Go (one of chess) and structural design
 - 👯 I’m looking to collaborate on building structure engineering product in Taiwan
 - 💬 Ask me about Taiwan, architecture, structure engineering, Chinese or programing languages
 - 📫 How to reach me: nai@u-ran.com
